@@ -8,7 +8,7 @@ This is specially useful for launching a game and, beforehand, a dependency. In 
 
 Replace the routes for the game and OpenTexMod executables on the script!
 
-This script was made for the [Assassin's Creed 2 Overhaul Mod](http://www.moddb.com/mods/assassins-creed-ii-overhaul-mod/), which uses OpenTexMod, but you can modify the script for any other game or dependency that works the same way.
+This script was made for the [Assassin's Creed 2 Overhaul Mod](https://www.moddb.com/mods/assassins-creed-ii-overhaul-mod/), which uses OpenTexMod, but you can modify the script for any other game or dependency that works the same way.
 
 YOU MUST FOLLOW THE INSTRUCTIONS FROM THE OVERHAUL MOD. Specifically where it says to make OpenTexMod auto-load the textures for AC2! Otherwise this script will be useless!
 
@@ -24,3 +24,14 @@ Run OpenTexMod, but you must launch AC2 manually. You might want to use this whe
 
 Once OTM is launched, the script will wait a few seconds (100 by default, you can change it on the "timeout" line), while you must launch AC2. After this delay, the script will check if AC2 is running. If not, OTM will be closed as well as the script.
 
+## What do I need to change?
+
+### 1.- The OpenTexMod location
+
+- [ac2+opentexmod](https://github.com/Pythoneiro/Assassins-Creed-II-OpenTexMod-Launcher/blob/master/ac2%2Bopentexmod.bat#L6)
+- [ac2+opentexmod](https://github.com/Pythoneiro/Assassins-Creed-II-OpenTexMod-Launcher/blob/master/ac2-opentexmod.bat#L6)
+
+### 2.- The game location
+
+- [ac2+opentexmod](https://github.com/Pythoneiro/Assassins-Creed-II-OpenTexMod-Launcher/blob/master/ac2%2Bopentexmod.bat#L11)
+- ac2+opentexmod: not available, since you must launch the game manually
