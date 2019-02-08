@@ -28,10 +28,10 @@ Once OTM is launched, the script will wait a few seconds (100 by default, you ca
 
 ### 1.- The OpenTexMod location
 
-- [ac2+opentexmod](https://github.com/Pythoneiro/Assassins-Creed-II-OpenTexMod-Launcher/blob/master/ac2%2Bopentexmod.bat#L6)
-- [ac2+opentexmod](https://github.com/Pythoneiro/Assassins-Creed-II-OpenTexMod-Launcher/blob/master/ac2-opentexmod.bat#L6)
+- [ac2+opentexmod](https://github.com/Pythoneiro/Assassins-Creed-II-OpenTexMod-Launcher/blob/master/ac2%2Bopentexmod.bat#L6): Line 6
+- [ac2-opentexmod](https://github.com/Pythoneiro/Assassins-Creed-II-OpenTexMod-Launcher/blob/master/ac2-opentexmod.bat#L6): Line 6
 
 ### 2.- The game location
 
-- [ac2+opentexmod](https://github.com/Pythoneiro/Assassins-Creed-II-OpenTexMod-Launcher/blob/master/ac2%2Bopentexmod.bat#L11)
-- ac2+opentexmod: not available, since you must launch the game manually
+- [ac2+opentexmod](https://github.com/Pythoneiro/Assassins-Creed-II-OpenTexMod-Launcher/blob/master/ac2%2Bopentexmod.bat#L11): Line 11
+- ac2-opentexmod: not available, since you must launch the game manually
